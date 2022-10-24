@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ridel316
 - 👀 I’m interested in becoming a UX Researcher
 - 🌱 I’m currently learning about data analytics through Google's certification course on Coursera
-- 💞️ I’m looking to collaborate on learning from more experience users and find a mentor
+- 💞️ I’m looking to collaborate on learning from more experienced users and find a mentor
 - 📫 How to reach me:  ridel316@gmail.com
 
 <!---
